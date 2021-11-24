@@ -1,0 +1,17 @@
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Domain.deps.json
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Domain.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ref\ToDo.Domain.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Domain.pdb
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Core.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Persistence.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Core.pdb
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\bin\Debug\net5.0\ToDo.Persistence.pdb
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.csproj.AssemblyReference.cache
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.csproj.CopyComplete
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ref\ToDo.Domain.dll
+C:\Users\ingjd\Documents\Workspace\Vue\ToDo_Vue\ToDo.Api\ToDo.Domain\obj\Debug\net5.0\ToDo.Domain.pdb
